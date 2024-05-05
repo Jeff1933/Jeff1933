@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Jeff1933
-- 👀 I’m interested in Cybersecurity,ML,CV
-- 🌱 I’m currently learning mysql,sqlserver
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Jeff1933/Jeff1933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={HI THRER!}&fontSize=90&fontAlign=50&fontAlignY=70&desc={THIS IS JeF5}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
