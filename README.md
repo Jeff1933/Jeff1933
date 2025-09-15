@@ -2,3 +2,5 @@
 
 
 <img align="center" src="https://skillicons.dev/icons?i={,js,vue,react,linux,mysql,py,raspberrypi,opencv,postman,vscode,django,}&theme=dark" />
+
+- learing_now: pinia nodejs express koa...
